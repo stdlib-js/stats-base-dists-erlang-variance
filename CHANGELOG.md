@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-17)
+## Unreleased (2025-04-05)
+
+<section class="features">
+
+### Features
+
+-   [`70e237f`](https://github.com/stdlib-js/stdlib/commit/70e237f3cdbeda4c06b2760934b6905628745594) - add C implementation for `stats/base/dists/erlang/variance` [(#4345)](https://github.com/stdlib-js/stdlib/pull/4345)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3579](https://github.com/stdlib-js/stdlib/issues/3579)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`70e237f`](https://github.com/stdlib-js/stdlib/commit/70e237f3cdbeda4c06b2760934b6905628745594) - **feat:** add C implementation for `stats/base/dists/erlang/variance` [(#4345)](https://github.com/stdlib-js/stdlib/pull/4345) _(by Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
 -   [`611fed3`](https://github.com/stdlib-js/stdlib/commit/611fed3fdb1d06516f0ad5fc9724356307810d1c) - **bench:** refactor random number generation in `stats/base/dists/erlang` [(#4916)](https://github.com/stdlib-js/stdlib/pull/4916) _(by Karan Anand)_
 
 </details>
@@ -24,9 +47,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Neeraj Pathak
+-   Philipp Burckhardt
 
 </section>
 

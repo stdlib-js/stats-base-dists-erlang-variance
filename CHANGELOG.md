@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-09)
+## Unreleased (2025-04-23)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`68cf553`](https://github.com/stdlib-js/stdlib/commit/68cf553c1f2888f317e0683691b933f9c0785a5e) - **docs:** update related packages sections [(#6788)](https://github.com/stdlib-js/stdlib/pull/6788) _(by stdlib-bot)_
 -   [`890da34`](https://github.com/stdlib-js/stdlib/commit/890da347c892d3b0a1a173687c3605e888946a18) - **chore:** remove decimal given integer value _(by Athan Reines)_
 -   [`70e237f`](https://github.com/stdlib-js/stdlib/commit/70e237f3cdbeda4c06b2760934b6905628745594) - **feat:** add C implementation for `stats/base/dists/erlang/variance` [(#4345)](https://github.com/stdlib-js/stdlib/pull/4345) _(by Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
 -   [`611fed3`](https://github.com/stdlib-js/stdlib/commit/611fed3fdb1d06516f0ad5fc9724356307810d1c) - **bench:** refactor random number generation in `stats/base/dists/erlang` [(#4916)](https://github.com/stdlib-js/stdlib/pull/4916) _(by Karan Anand)_

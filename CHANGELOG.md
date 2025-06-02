@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-19)
+## Unreleased (2025-06-02)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`391830c`](https://github.com/stdlib-js/stdlib/commit/391830ccb553b0d53a43029d4aea3a07070b25df) - **docs:** replace manual `for` loop in examples [(#7170)](https://github.com/stdlib-js/stdlib/pull/7170) _(by Harsh)_
 -   [`68cf553`](https://github.com/stdlib-js/stdlib/commit/68cf553c1f2888f317e0683691b933f9c0785a5e) - **docs:** update related packages sections [(#6788)](https://github.com/stdlib-js/stdlib/pull/6788) _(by stdlib-bot)_
 -   [`890da34`](https://github.com/stdlib-js/stdlib/commit/890da347c892d3b0a1a173687c3605e888946a18) - **chore:** remove decimal given integer value _(by Athan Reines)_
 -   [`70e237f`](https://github.com/stdlib-js/stdlib/commit/70e237f3cdbeda4c06b2760934b6905628745594) - **feat:** add C implementation for `stats/base/dists/erlang/variance` [(#4345)](https://github.com/stdlib-js/stdlib/pull/4345) _(by Neeraj Pathak, Philipp Burckhardt, stdlib-bot)_
@@ -49,9 +50,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Harsh
 -   Karan Anand
 -   Neeraj Pathak
 -   Philipp Burckhardt

@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-10)
+## Unreleased (2026-10-17)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`2861fe4`](https://github.com/stdlib-js/stdlib/commit/2861fe430548bb441cce624fcfe35a66059c5fba) - **chore:** clean-up [(#16062)](https://github.com/stdlib-js/stdlib/pull/16062) _(by Philipp Burckhardt)_
 -   [`d4eff30`](https://github.com/stdlib-js/stdlib/commit/d4eff3057f89b53723a48c0f7977b59fe9095fb9) - **test:** migrate `stats/base/dists/erlang/variance` to ULP-based assertions [(#14753)](https://github.com/stdlib-js/stdlib/pull/14753) _(by Athan Reines)_
 -   [`25adf7d`](https://github.com/stdlib-js/stdlib/commit/25adf7d2a8ffc0ee3f0ac72ab18349ee745ec356) - **docs:** fix C codeblocks in `stats/base/dists/erlang/variance` [(#10960)](https://github.com/stdlib-js/stdlib/pull/10960) _(by Om-A-osc)_
 -   [`f38e8a7`](https://github.com/stdlib-js/stdlib/commit/f38e8a7b433e0e9888eb57c83f4374073089ad85) - **docs:** clean-up parameters in Julia fixtures scripts _(by Philipp Burckhardt)_
